@@ -1,0 +1,15 @@
+
+
+```text
+torch
+torchaudio
+librosa
+soundfile
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+datasets
+transformers
+accelerate
